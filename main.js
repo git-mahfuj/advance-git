@@ -1,2 +1,2 @@
-const c = 40;
+let sam = 24;
 

@@ -1,2 +1,2 @@
-const c = 40;
+const c = 25;
 

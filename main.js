@@ -1,3 +1,3 @@
-const c = 25;
 
+dgwydgwhdwhdghwdy
 
